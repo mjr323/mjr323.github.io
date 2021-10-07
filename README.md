@@ -1,4 +1,7 @@
 # mjr323.github.io
+This is a bar chart describing the different types of faculty on the Lehigh campus
+https://github.com/mjr323/mjr323.github.io/blob/main/J25%20Lehigh%20Practice%20Bar%20Chart.png?raw=true
+
 I am Mari Ruggeri, a journalism major at Lehigh University.
 At Lehigh, I am a reporter for the Brown and White and have spent the past two years writing for the sports section.
 I use this site mainly for class purposes and assignments.
