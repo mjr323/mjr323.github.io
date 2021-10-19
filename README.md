@@ -1,4 +1,7 @@
 # mjr323.github.io
+This bar chart looks at three different types of music consumption among six age groups in the United States. Looking at music streamers, we can see the the 35+, 45+, and 55+ age groups are all at 18%. However, the highest music streaming was seen by the 25+ group at 21%. For CD buyers, the 55+ age group was the highest for consumption with 35%. For digital buyers, we saw that the 45+ age group had a consumption rate of 31%, which was the highest percentage by far.
+https://github.com/mjr323/mjr323.github.io/blob/main/Types%20of%20Music%20Consumption.png?raw=true
+
 This time series line chart looks at average viewership for professional sports championships from 2011-2020. The X-axis represents the years and the Y-axis is average viewers in millions. The chart specifically looks at the Super Bowl, the NBA Championship, and the World Series. The Super Bowl has the highest viewership levels out of any of the three sports. The Super Bowl’s viewership levels peak in the middle of the chart around 2015, however the ultimately begin to decline with the lowest year being 2019. The NBA Championship and World Series see similar viewership levels and both remain relatively consistent throughout the first couple of years. However, the NBA saw peak viewership in 2016 and 2018 before they ultimately went on the decline again. The World Series had its peak viewership in 2016 and then declined from there. 
 https://github.com/mjr323/mjr323.github.io/blob/main/Average%20Prof%20Championship%20Viewership.png?raw=true 
 
