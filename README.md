@@ -1,4 +1,7 @@
 # mjr323.github.io
+This map outlines data for the top 20 cycling cities in the world in 2019. More information can be found on Wired.
+https://media.wired.com/photos/5d13d30eb669a00009409c79/master/w_1600%2Cc_limit/Transpo_18_Vancouver_2.jpg
+
 This bar chart looks at three different types of music consumption among six age groups in the United States. Looking at music streamers, we can see the the 35+, 45+, and 55+ age groups are all at 18%. However, the highest music streaming was seen by the 25+ group at 21%. For CD buyers, the 55+ age group was the highest for consumption with 35%. For digital buyers, we saw that the 45+ age group had a consumption rate of 31%, which was the highest percentage by far.
 https://github.com/mjr323/mjr323.github.io/blob/main/Types%20of%20Music%20Consumption.png?raw=true
 
