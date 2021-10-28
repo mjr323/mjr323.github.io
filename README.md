@@ -1,4 +1,7 @@
 # mjr323.github.io
+This map outlines data for the top shopping cities in the world based on research done by the Trvl Channel. More information can be found on their site.
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KGjF86bmmnRMNariOUnRKott_ahPzsrF" width="640" height="480"></iframe>
+
 This map outlines data for the top 20 cycling cities in the world in 2019. More information can be found on Wired.
 https://media.wired.com/photos/5d13d30eb669a00009409c79/master/w_1600%2Cc_limit/Transpo_18_Vancouver_2.jpg
 
