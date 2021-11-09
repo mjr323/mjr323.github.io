@@ -1,4 +1,7 @@
 # mjr323.github.io
+This comic was made using the site Pixton.
+https://github.com/mjr323/mjr323.github.io/blob/main/Screen%20Shot%202021-11-09%20at%2011.34.05%20AM.png?raw=true
+
 This map outlines data for the top shopping cities in the world based on research done by the Trvl Channel. More information can be found on their site.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KGjF86bmmnRMNariOUnRKott_ahPzsrF" width="640" height="480"></iframe>
 
